@@ -1,3 +1,4 @@
+# Перевод темы Stack Overflow для jsonresume на русский язык
 # Stack Overflow theme for jsonresume [![npm version](https://badge.fury.io/js/jsonresume-theme-stackoverflow.svg)](http://badge.fury.io/js/jsonresume-theme-stackoverflow)
 
 **Printable version with custom CSS**
@@ -23,7 +24,7 @@ npm install -g resume-cli
 Clone the repository
 
 ```
-git clone https://github.com/francescoes/jsonresume-theme-stackoverflow.git
+git clone https://github.com/k0marov/jsonresume-theme-stackoverflow-ru.git
 ```
 
 Create a 'resume.json' file in the current folder and follow the [json resume schema](https://jsonresume.org/schema/)
