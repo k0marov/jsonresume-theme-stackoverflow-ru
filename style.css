@@ -721,7 +721,7 @@ section .location {
     margin: 0.5em 0 0 0;
   }
   ul.keywords::before {
-    content: "Skills acquired: ";
+    content: "Технологии: ";
   }
   #skills .keywords::before {
     content: none;
